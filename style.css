@@ -17,9 +17,9 @@ a:hover {
     text-decoration: none;
 }
 
-a i {
-    font-size: 22px;
-     color: #ffffff ;
+a ion-icon {
+	font-size: 22px;
+	color: #15f3fa;
 }
 
 section{
@@ -237,7 +237,7 @@ section{
     margin: 0 0px;
 }
 
-.carousel-control-next , .carousel-control-prev{
+.carousel-control-prev, .carousel-control-next{
     color: #ffffff;
     opacity: 1;
     width: 5%;
@@ -249,7 +249,7 @@ section{
 }
 
 
-.control-buttom{
+.control-bottom{
     background-color: #1a1a1a;
     opacity: 1;
     width: 50px;
